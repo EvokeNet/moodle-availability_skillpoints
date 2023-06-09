@@ -1,0 +1,10 @@
+{
+  "name": "moodle-availability_skillpoints-form",
+  "builds": {
+    "moodle-availability_skillpoints-form": {
+      "jsfiles": [
+        "form.js"
+      ]
+    }
+  }
+}
